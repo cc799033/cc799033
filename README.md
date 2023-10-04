@@ -9,5 +9,4 @@ cc799033/cc799033 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-git config --global user.email "caitlin4c@example.com"
-git config --global user.name "Caitlin Coppesss"
+
